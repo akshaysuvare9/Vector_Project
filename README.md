@@ -3,4 +3,5 @@ Author Name: Akshay Suvare
 UART driver file added.
 I2C driver files added.
 SPI driver file added.
-LCD driver file added
+LCD driver file added.
+Delay code added.
