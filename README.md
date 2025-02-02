@@ -12,4 +12,4 @@ LCD driver file added.
 <br>
 Delay code added.
 <br>
-Delay code added of 200ms.
+Delay code added of 200ms and 1ms.
