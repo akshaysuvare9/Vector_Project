@@ -1,0 +1,993 @@
+DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git pull
+Already up to date.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit 4a6db6914ebba0606aabbab9a2ff37f72f90763b (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 0930322f97438f4a672f660385ed1712b28ea280
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+    New lines added.
+
+commit 3d51b7160df037e2abf87d8c65af30ff6f4fe50c
+Merge: fbd4907 9e781b0
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:27 2025 +0530
+
+    Merge branch 'main' into delay_code
+
+commit fbd490798055b1d634dbbe295471a07aa4730301
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+commit 9e781b0c3d4c62b87409a5fadc578a6c691daa3c
+Merge: 448fb75 61914de
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:37:27 2025 +0530
+
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (main)
+$ git log
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (HEAD -> main, origin/main, origin/HEAD)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+    New lines added.
+
+commit 3d51b7160df037e2abf87d8c65af30ff6f4fe50c
+Merge: fbd4907 9e781b0
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:27 2025 +0530
+
+    Merge branch 'main' into delay_code
+
+commit fbd490798055b1d634dbbe295471a07aa4730301
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+commit 9e781b0c3d4c62b87409a5fadc578a6c691daa3c
+Merge: 448fb75 61914de
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (main)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auto-merging delay.c
+CONFLICT (content): Merge conflict in delay.c
+error: could not apply 0930322... added new file roshan.c and modified delay.c file
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+hint: Disable this message with "git config set advice.mergeConflict false"
+Could not apply 0930322... # added new file roshan.c and modified delay.c file
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code .
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code ..
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code ..
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ code .
+bash: code: command not found
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ git status
+interactive rebase in progress; onto 31093ae
+Last commands done (3 commands done):
+   reset onto
+   pick 0930322 # added new file roshan.c and modified delay.c file
+  (see more in file .git/rebase-merge/done)
+Next command to do (1 remaining command):
+   pick 4a6db69 # added deley_2 file
+  (use "git rebase --edit-todo" to view and edit)
+You are currently rebasing branch 'akshay_delay_code_2' on '31093ae'.
+  (fix conflicts and then run "git rebase --continue")
+  (use "git rebase --skip" to skip this patch)
+  (use "git rebase --abort" to check out the original branch)
+
+Unmerged paths:
+  (use "git restore --staged <file>..." to unstage)
+  (use "git add <file>..." to mark resolution)
+        both modified:   delay.c
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ git diff
+diff --cc delay.c
+index 2e1fd98,3a9ae4e..0000000
+--- a/delay.c
++++ b/delay.c
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ git add .
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 3/4)
+$ git rebase --continue
+Successfully rebased and updated refs/heads/akshay_delay_code_2.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log -5
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd (HEAD -> akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+    New lines added.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git push -uf
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 265 bytes | 265.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/akshaysuvare9/Vector_Project.git
+ + 4a6db69...661a543 akshay_delay_code_2 -> akshay_delay_code_2 (forced update)
+branch 'akshay_delay_code_2' set up to track 'origin/akshay_delay_code_2'.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[akshay_delay_code_2 b19185c] Delay changed to 200ms in README.md file
+ Author: akshaysuvare9 <suvareakshay9@gmail.com>
+ Date: Sun Feb 2 17:39:16 2025 +0530
+ 1 file changed, 1 deletion(-)
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit b19185c394c9fb0f8147157ccfd68eb2df848bc9 (HEAD -> akshay_delay_code_2)
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd (origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+    New lines added.
+
+commit 3d51b7160df037e2abf87d8c65af30ff6f4fe50c
+Merge: fbd4907 9e781b0
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:27 2025 +0530
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$
+
+
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit 653124a137709d794dc0a3021ee2fb45582db668 (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 16:21:57 2025 +0530
+
+    added logs
+
+commit b19185c394c9fb0f8147157ccfd68eb2df848bc9
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit 653124a137709d794dc0a3021ee2fb45582db668 (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 16:21:57 2025 +0530
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[detached HEAD e6935ad] Delay changed to 200ms in README.md file and added logs
+ Author: akshaysuvare9 <suvareakshay9@gmail.com>
+ Date: Sun Feb 2 17:39:16 2025 +0530
+ 2 files changed, 408 insertions(+), 1 deletion(-)
+ create mode 100644 logs.txt
+Successfully rebased and updated refs/heads/akshay_delay_code_2.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit e6935ad226ea6ad5024fd9acbe351a830e01be2a (HEAD -> akshay_delay_code_2)
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file and added logs
+
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+    New lines added.
+
+commit 3d51b7160df037e2abf87d8c65af30ff6f4fe50c
+Merge: fbd4907 9e781b0
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:27 2025 +0530
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git reset --origin/akshay_delay_code_2
+error: unknown option `origin/akshay_delay_code_2'
+usage: git reset [--mixed | --soft | --hard | --merge | --keep] [-q] [<commit>]
+   or: git reset [-q] [<tree-ish>] [--] <pathspec>...
+   or: git reset [-q] [--pathspec-from-file [--pathspec-file-nul]] [<tree-ish>]
+   or: git reset --patch [<tree-ish>] [--] [<pathspec>...]
+   or: DEPRECATED: git reset [-q] [--stdin [-z]] [<tree-ish>]
+
+    -q, --[no-]quiet      be quiet, only report errors
+    --no-refresh          skip refreshing the index after reset
+    --refresh             opposite of --no-refresh
+    --mixed               reset HEAD and index
+    --soft                reset only HEAD
+    --hard                reset HEAD, index and working tree
+    --merge               reset HEAD, index and working tree
+    --keep                reset HEAD but keep local changes
+    --[no-]recurse-submodules[=<reset>]
+                          control recursive updating of submodules
+    -p, --[no-]patch      select hunks interactively
+    -U, --unified <n>     generate diffs with <n> lines context
+    --inter-hunk-context <n>
+                          show context between diff hunks up to the specified number of lines
+    -N, --[no-]intent-to-add
+                          record only the fact that removed paths will be added later
+    --[no-]pathspec-from-file <file>
+                          read pathspec from file
+    --[no-]pathspec-file-nul
+                          with --pathspec-from-file, pathspec elements are separated with NUL character
+    -z                    DEPRECATED (use --pathspec-file-nul instead): paths are separated with NUL character
+    --[no-]stdin          DEPRECATED (use --pathspec-from-file=- instead): read paths from <stdin>
+
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git reset --hard origin/akshay_delay_code_2
+HEAD is now at 653124a added logs
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit 653124a137709d794dc0a3021ee2fb45582db668 (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 16:21:57 2025 +0530
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[detached HEAD 7468fef] Delay changed to 200ms in README.md file
+ Author: akshaysuvare9 <suvareakshay9@gmail.com>
+ Date: Sun Feb 2 17:39:16 2025 +0530
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2|REBASE 2/3)
+$ git rebase --continu
+Successfully rebased and updated refs/heads/akshay_delay_code_2.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit aa1aa63b636e87c997b18b81b83b11cf50329051 (HEAD -> akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 16:21:57 2025 +0530
+
+    added logs
+
+commit 7468fef12f5a8ea3be59476adccaead41beebaae
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
+Merge: 9e781b0 ed33bbe
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:44:41 2025 +0530
+
+    Merge pull request #7 from akshaysuvare9/delay_code
+
+    Delay code
+
+commit ed33bbed89b133e85a3c3622daa955e435dda739
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Feb 2 17:43:24 2025 +0530
+
+    Update README.md
+
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git diff 7468fef12f5a8ea3be59476adccaead41beebaae
+diff --git a/logs.txt b/logs.txt
+new file mode 100644
+index 0000000..6a577dc
+--- /dev/null
++++ b/logs.txt
+@@ -0,0 +1,408 @@
++DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
++$ git pull
++Already up to date.
++
++Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
++$ git log
++commit 4a6db6914ebba0606aabbab9a2ff37f72f90763b (HEAD -> akshay_delay_code_2, origin/akshay_delay_code_2)
++Author: roshan <roshankangane98@gmail.com>
++Date:   Sun Dec 7 15:25:40 2025 +0530
++
++    added deley_2 file
++
++commit 0930322f97438f4a672f660385ed1712b28ea280
++Author: roshan <roshankangane98@gmail.com>
++Date:   Sun Dec 7 14:57:29 2025 +0530
++
++    added new file roshan.c and modified delay.c file
++
++commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
++Merge: 9e781b0 ed33bbe
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Feb 2 17:44:41 2025 +0530
++
++    Merge pull request #7 from akshaysuvare9/delay_code
++
++    Delay code
++
++commit ed33bbed89b133e85a3c3622daa955e435dda739
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Feb 2 17:43:24 2025 +0530
++
++    Update README.md
++
++    New lines added.
++
++commit 3d51b7160df037e2abf87d8c65af30ff6f4fe50c
++Merge: fbd4907 9e781b0
++Author: akshaysuvare9 <suvareakshay9@gmail.com>
++Date:   Sun Feb 2 17:39:27 2025 +0530
++
++    Merge branch 'main' into delay_code
++
++commit fbd490798055b1d634dbbe295471a07aa4730301
++Author: akshaysuvare9 <suvareakshay9@gmail.com>
++Date:   Sun Feb 2 17:39:16 2025 +0530
++
++    Delay changed to 200ms in README.md file
++
++commit 9e781b0c3d4c62b87409a5fadc578a6c691daa3c
++Merge: 448fb75 61914de
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Feb 2 17:37:27 2025 +0530
++
++
++Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
++$ git checkout main
++Switched to branch 'main'
++Your branch is up to date with 'origin/main'.
++
++Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (main)
++$ git log
++commit 31093aee18786d47f9c011a9550ae6bf3b330692 (HEAD -> main, origin/main, origin/HEAD)
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Dec 7 15:41:17 2025 +0530
++
++    Update delay.c
++
++    Added new lines below the "added 1st comment"
++
++commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
++Author: roshan <roshankangane98@gmail.com>
++Date:   Sun Dec 7 14:57:29 2025 +0530
++
++    added new file roshan.c and modified delay.c file
++
++commit 55d056def2ff0ad809081c4f12e84dd04f01b78a
++Merge: 9e781b0 ed33bbe
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Feb 2 17:44:41 2025 +0530
++
++    Merge pull request #7 from akshaysuvare9/delay_code
++
++    Delay code
++
++commit ed33bbed89b133e85a3c3622daa955e435dda739
++Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
++Date:   Sun Feb 2 17:43:24 2025 +0530
++
++    Update README.md
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git show 7468fef12f5a8ea3be59476adccaead41beebaae
+commit 7468fef12f5a8ea3be59476adccaead41beebaae
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.md file
+
+diff --git a/README.md b/README.md
+index 6c69fd6..2d384e2 100644
+--- a/README.md
++++ b/README.md
+@@ -11,5 +11,5 @@ SPI driver file added.
+ LCD driver file added.
+ <br>
+ Delay code added.
+-<br>
+ Delay code added of 200ms.
++//added code here
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log
+commit aa1aa63b636e87c997b18b81b83b11cf50329051 (HEAD -> akshay_delay_code_2)
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 16:21:57 2025 +0530
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[detached HEAD c47c23f] Delay changed to 200ms in README.m and added logs
+ Author: akshaysuvare9 <suvareakshay9@gmail.com>
+ Date: Sun Feb 2 17:39:16 2025 +0530
+ 2 files changed, 409 insertions(+), 1 deletion(-)
+ create mode 100644 logs.txt
+Successfully rebased and updated refs/heads/akshay_delay_code_2.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git log -4
+commit c47c23f100dfc7d016e43658c2fb9f29b5ccebeb (HEAD -> akshay_delay_code_2)
+Author: akshaysuvare9 <suvareakshay9@gmail.com>
+Date:   Sun Feb 2 17:39:16 2025 +0530
+
+    Delay changed to 200ms in README.m and added logs
+
+commit 661a543fae0e4ab1b445bde43ffe13c8ba2f86cd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 15:25:40 2025 +0530
+
+    added deley_2 file
+
+commit 31093aee18786d47f9c011a9550ae6bf3b330692 (origin/main, origin/HEAD, main)
+Author: akshaysuvare9 <74777762+akshaysuvare9@users.noreply.github.com>
+Date:   Sun Dec 7 15:41:17 2025 +0530
+
+    Update delay.c
+
+    Added new lines below the "added 1st comment"
+
+commit 09fd7bbf9724e696e9aa320e24ba81e37dd8efdd
+Author: roshan <roshankangane98@gmail.com>
+Date:   Sun Dec 7 14:57:29 2025 +0530
+
+    added new file roshan.c and modified delay.c file
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$ git push -uf
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 2.36 KiB | 1.18 MiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/akshaysuvare9/Vector_Project.git
+ + 653124a...c47c23f akshay_delay_code_2 -> akshay_delay_code_2 (forced update)
+branch 'akshay_delay_code_2' set up to track 'origin/akshay_delay_code_2'.
+
+Admin@DESKTOP-7K9T02P MINGW64 /c/Roshan/ROSHAN_GIT/akshay/Vector_Project (akshay_delay_code_2)
+$
