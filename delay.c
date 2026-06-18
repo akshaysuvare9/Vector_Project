@@ -7,7 +7,7 @@ void delay_ms(s32 ms)
 		//added new line for comment
 		for(i=250;i>0;i--);
 		//added line
-		for(i=247;i>0;i--);
+		for(i=100;i>0;i--);
 	}
 }
 
