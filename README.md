@@ -11,5 +11,5 @@ SPI driver file added.
 LCD driver file added.
 <br>
 Delay code added.
-<br>
 Delay code added of 200ms.
+//added code here
